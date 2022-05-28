@@ -13,5 +13,5 @@ At present, some of the learned policies and testing codes are provided for demo
 
 | Algo | No Noise | Observation Noise $(\sigma=0.1)$| Parameter Noise $(\sigma=0.08)$ |
 |:---:|:---:|:---:|:---:|
-| ARS | ![figure/robust/ars.gif](https://i.ibb.co/02dK5jP/ars.gif)  | ![figure/robust/ars_obs0.1.gif](https://i.ibb.co/TKZQWkp/ars-obs0-1.gif) | ![figure/robust/ars_para0.08.gif](https://i.ibb.co/bPbKJYz/ars-para0-08.gif) |
-| ZOAC | ![figure/robust/zoacmat.gif](https://i.ibb.co/xCmyyB2/zoacmat.gif)  | ![figure/robust/zoacmat_obs0.1.gif](https://i.ibb.co/tZbV4C5/zoacmat-obs0-1.gif) | ![figure/robust/zoacmat_para0.08.gif](https://i.ibb.co/4FKbwmj/zoacmat-para0-08.gif) |
+| ARS | [ars.gif](https://i.ibb.co/02dK5jP/ars.gif)  | [ars_obs0.1.gif](https://i.ibb.co/TKZQWkp/ars-obs0-1.gif) | [ars_para0.08.gif](https://i.ibb.co/bPbKJYz/ars-para0-08.gif) |
+| ZOAC | [zoacmat.gif](https://i.ibb.co/xCmyyB2/zoacmat.gif)  | [zoacmat_obs0.1.gif](https://i.ibb.co/tZbV4C5/zoacmat-obs0-1.gif) | [zoacmat_para0.08.gif](https://i.ibb.co/4FKbwmj/zoacmat-para0-08.gif) |
