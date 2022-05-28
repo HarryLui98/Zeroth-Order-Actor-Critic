@@ -1,7 +1,8 @@
 ## Zeroth-Order Actor-Critic (ZOAC)
 ### Codes
 #### ZOAC
-The training code of ZOAC will be realesed in this repo.
+The complete training code of ZOAC will be realesed in this repo.
+At present, some of the learned policies and testing codes are provided for demonstration.
 #### Baselines
 * Evolution strategies (ES) implemented in RLlib ([repo](https://github.com/ray-project/ray/tree/master/rllib))
 * Augmented random search (ARS) implemented by authors of the original paper ([repo](https://github.com/modestyachts/ARS))
