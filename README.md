@@ -7,7 +7,8 @@ The training code of ZOAC will be realesed in this repo.
 * Augmented random search (ARS) implemented by authors of the original paper ([repo](https://github.com/modestyachts/ARS))
 * Proximal policy optimization (PPO) implemented in stable-baseline3 ([repo](https://github.com/DLR-RM/stable-baselines3))
 ### Additional Results on Robustness
-* We compare the robustness of the linear policies learned by ARS/ZOAC. Although they have identical policy structure, ZOAC is able to find policies that are much more robust to noise.
+* Apart from the results presented in the paper, we further visualize the linear policies learned by ARS/ZOAC below.
+  Although they have identical policy structure, ZOAC is able to find policies that are much more robust to noise.
 
 | Algo | No Noise | Observation Noise $(\sigma=0.1)$| Parameter Noise $(\sigma=0.08)$ |
 |:---:|:---:|:---:|:---:|
