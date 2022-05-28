@@ -12,5 +12,5 @@ The training code of ZOAC will be realesed in this repo.
 
 | Algo | No Noise | Observation Noise $(\sigma=0.1)$| Parameter Noise $(\sigma=0.08)$ |
 |:---:|:---:|:---:|:---:|
-| ARS | ![](https://github.com/HarryLui98/Zeroth-Order-Actor-Critic/raw/main/figure/robust/ars_300_para0.08.gif)  | ![](https://github.com/HarryLui98/Zeroth-Order-Actor-Critic/raw/main/figure/robust/ars_400_obs0.1.gif) | ![](https://github.com/HarryLui98/Zeroth-Order-Actor-Critic/raw/main/figure/robust/ars_300_para0.08.gif) |
-| ZOAC | ![](https://github.com/HarryLui98/Zeroth-Order-Actor-Critic/raw/main/figure/robust/zoacmat_300.gif)  | ![](https://github.com/HarryLui98/Zeroth-Order-Actor-Critic/raw/main/figure/robust/zoacmat_300_obs0.1.gif) | ![](https://github.com/HarryLui98/Zeroth-Order-Actor-Critic/raw/main/figure/robust/zoacmat_300_para0.08.gif) |
+| ARS | ![](https://anonymous.4open.science/r/Zeroth-Order-Actor-Critic-1A71/figure/robust/ars_300_para0.08.gif)  | ![](https://anonymous.4open.science/r/Zeroth-Order-Actor-Critic-1A71/figure/robust/ars_400_obs0.1.gif) | ![](https://anonymous.4open.science/r/Zeroth-Order-Actor-Critic-1A71/figure/robust/ars_300_para0.08.gif) |
+| ZOAC | ![](https://anonymous.4open.science/r/Zeroth-Order-Actor-Critic-1A71/figure/robust/zoacmat_300.gif)  | ![](https://anonymous.4open.science/r/Zeroth-Order-Actor-Critic-1A71/figure/robust/zoacmat_300_obs0.1.gif) | ![](https://anonymous.4open.science/r/Zeroth-Order-Actor-Critic-1A71/figure/robust/zoacmat_300_para0.08.gif) |
