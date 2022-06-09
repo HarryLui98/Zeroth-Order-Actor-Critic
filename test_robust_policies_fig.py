@@ -209,18 +209,18 @@ para_noise_result = {'invdp': [],
 algo_name_list = {'zoac_mat': 'ZOAC (Linear)',
                   'zoac_mlp': 'ZOAC (Neural)',
                   'ars': 'ARS (Linear)',
-                  'es-clip': 'ES (Neural)',
-                  'ppo-clip': 'PPO (Neural)'}
+                  'es': 'ES (Neural)',
+                  'ppo': 'PPO (Neural)'}
 policy_list = {'zoac_mat': {},
                'zoac_mlp': {},
                'ars': {},
-               'es-clip': {},
-               'ppo-clip': {}}
+               'es': {},
+               'ppo': {}}
 obs_filter_list = {'zoac_mat': {},
                    'zoac_mlp': {},
                    'ars': {},
-                   'es-clip': {},
-                   'ppo-clip': {}}
+                   'es': {},
+                   'ppo': {}}
 
 #  plot figure
 obs_noise_list = np.arange(0, 0.32, 0.02)
